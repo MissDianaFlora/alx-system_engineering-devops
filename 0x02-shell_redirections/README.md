@@ -4,3 +4,4 @@ Display the content of the /etc/passwd file
 display content of two files
 Display last line of a file
 Display the first 10 line
+Display 3rd line without using sed command
